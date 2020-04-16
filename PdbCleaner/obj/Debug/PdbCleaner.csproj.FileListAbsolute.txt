@@ -1,0 +1,7 @@
+D:\git\pdbcleaner\PdbCleaner\bin\PdbCleaner.exe.config
+D:\git\pdbcleaner\PdbCleaner\bin\PdbCleaner.exe
+D:\git\pdbcleaner\PdbCleaner\bin\PdbCleaner.pdb
+D:\git\pdbcleaner\PdbCleaner\obj\Debug\PdbCleaner.csprojAssemblyReference.cache
+D:\git\pdbcleaner\PdbCleaner\obj\Debug\PdbCleaner.csproj.CoreCompileInputs.cache
+D:\git\pdbcleaner\PdbCleaner\obj\Debug\PdbCleaner.exe
+D:\git\pdbcleaner\PdbCleaner\obj\Debug\PdbCleaner.pdb
